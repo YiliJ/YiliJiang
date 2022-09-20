@@ -3,7 +3,7 @@
 </p>      
 
 ## Yili Jiang, Ph.D.
-Assistant Professor 
+Assistant Professor        
 Department of Computer and Information Science       
 University of Mississippi    
 Email: yjiang7 at olemiss dot edu        
