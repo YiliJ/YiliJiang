@@ -1,4 +1,7 @@
-![me](/YiliJiang/YJ.jpg)
+<p align="left">
+<img src="YJ.JPG" alt="YJ" width="200"/>     
+</p>      
+
 ## Yili Jiang, Ph.D.
 Assistant Professor 
 Department of Computer and Information Science       
