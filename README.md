@@ -1,4 +1,4 @@
-\!\[markdown picture](./YJ.jpg)
+![me](/YiliJiang/YJ.jpg)
 ## Yili Jiang, Ph.D.
 Assistant Professor 
 Department of Computer and Information Science       
