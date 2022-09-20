@@ -1,5 +1,5 @@
 <p align="left">
-<img src="YJ.JPG" alt="YJ" width="200"/>     
+<img src="YJ.JPG" alt="me" width="200"/>     
 </p>      
 
 ## Yili Jiang, Ph.D.
