@@ -23,4 +23,9 @@ Dr. Jiang joined the University of Mississippi as an Assistant Professor in the 
 
 ### Prospective Students
 
-I am always looking for self-motivated students wutg strong interests in research. If you are interested, please email me your CV, TOEFL/IELTS/GRE scores (if applicable), transcript, and sample publications (if any). Full Research Assistantship will be provided for outstanding Ph.D. applicants. 
+I am always looking for self-motivated students with strong interests in research. If you are interested, please email me your CV, transcript, GRE score, TOEFL/IELTS score (if applicable), and sample publications (if any). Full Research Assistantship will be provided for outstanding Ph.D. applicants.     
+
+### Courses Taught
+- CSci 433/502* - Algorithm and Data Structure Analysis
+- CSci 692*/596-67* - Advanced Topics in Cyber Security and Privacy
+* indicates classes at graduate level.
