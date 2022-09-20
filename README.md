@@ -1,5 +1,5 @@
-<center>## Yili Jiang, Ph.D.</center>
-<center>Assistant Professor</center>       
+## Yili Jiang, Ph.D.</center>
+Assistant Professor 
 Department of Computer and Information Science       
 University of Mississippi    
 Email: yjiang7 at olemiss dot edu        
