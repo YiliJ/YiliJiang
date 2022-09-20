@@ -58,5 +58,28 @@ I am always looking for self-motivated students with strong interests in researc
   The 13th Central Area Networking and Security Workshop
 - The Outstanding Graduation Dissertation, 2014      
   Nanjing University of Posts and Telecommunications
-
+  
+### Professional Activies and Services     
+- Session Chair for the Track of Edge Computing in IEEE Wireless Communications and Networking Conference (WCNC),2022. 
+- TPC member for IEEE/CIC International Conference on Communications in China (ICCC), 2018.
+- Student Volunteer for IEEE International Conference on Communications (ICC), 2018.
+- Reviews for Journals and Conferences (selected)      
+  •	IEEE Access,
+•	IEEE Wireless Communications Magazine
+•	IEEE Communications Magazine
+•	IEEE Network Magazine
+•	IEEE Transactions on Vehicular Technology
+•	IEEE Internet of Things Journal
+•	IEEE Transactions on Engineering Management
+•	Information Sciences
+•	Peer-to-Peer Networking and Applications
+•	Journal of Parallel and Distributed Computing
+•	International Journal of Sensor Networks
+•	IEEE International Conference on Computer Communications (INFOCOM) 
+•	IEEE Global Communications Conference (GLOBECOM)
+•	IEEE International Conference on Communications (ICC)
+•	IEEE Vehicular Technology Conference (VTC)
+•	IEEE International Conference on Wireless Communications and Signal Processing (WCSP)
+•	IEEE/ACM International Symposium on Quality of Service (IWQoS)
+•	IEEE International Conference on Wireless and Mobile Computing, Networking And Communications 
 
