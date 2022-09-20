@@ -1,4 +1,4 @@
-##<center>Yili Jiang, Ph.D.<center>
+##<center>Yili Jiang, Ph.D.</center>
 
 Assistant Professor     
 Department of Computer and Information Science      
