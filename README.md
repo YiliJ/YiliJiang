@@ -28,4 +28,4 @@ I am always looking for self-motivated students with strong interests in researc
 ### Courses Taught
 - CSci 433/502* - Algorithm and Data Structure Analysis
 - CSci 692*/596-67* - Advanced Topics in Cyber Security and Privacy
-* indicates classes at graduate level.
+ * indicates classes at graduate level.
