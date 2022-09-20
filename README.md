@@ -44,19 +44,19 @@ I am always looking for self-motivated students with strong interests in researc
 ### Honors and Awards     
 - IEEE ComSoc-Sponsore Student Conference Grant, 2022      
   IEEE International Conference on Computer Communications (INFOCOM)
-- IEEE-Sponsored Student Travel Grant, 2022
+- IEEE-Sponsored Student Travel Grant, 2022       
   IEEE Wireless Communications and Networking Conference (WCNC)
-- IEEE-Sponsored Student Registration Award, 2021
+- IEEE-Sponsored Student Registration Award, 2021       
   The 29th IEEE International Conference on Network Protocols (ICNP)
-- Professional Development Fellowship, 2021
+- Professional Development Fellowship, 2021       
   College of Engineering, University of Nebraska-Lincoln
-- Holling Fellowship, 2021
+- Holling Fellowship, 2021       
   University of Nebraska-Lincoln
-- The Milton E. Mohr Fellowship, 2020
+- The Milton E. Mohr Fellowship, 2020       
   University of Nebraska-Lincoln
-- The NSF-Sponsored Student Travel Award, 2019
+- The NSF-Sponsored Student Travel Award, 2019      
   The 13th Central Area Networking and Security Workshop
-- The Outstanding Graduation Dissertation, 2014
+- The Outstanding Graduation Dissertation, 2014      
   Nanjing University of Posts and Telecommunications
 
 
