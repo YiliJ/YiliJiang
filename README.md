@@ -42,7 +42,7 @@ I am always looking for self-motivated students with strong interests in researc
 - Yili Jiang, Kuan Zhang, Yi Qian, and Liang Zhou, “An Optimization Framework for Privacy-preserving Access Control in Cloud-Fog Computing Systems,” 2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall), 2020, pp. 1-5.
 
 ### Honors and Awards     
-- IEEE ComSoc-Sponsore Student Conference Grant, 2022
+- IEEE ComSoc-Sponsore Student Conference Grant, 2022      
   IEEE International Conference on Computer Communications (INFOCOM)
 - IEEE-Sponsored Student Travel Grant, 2022
   IEEE Wireless Communications and Networking Conference (WCNC)
