@@ -1,4 +1,4 @@
-<center>##Yili Jiang, Ph.D.</center>     
+##Yili Jiang, Ph.D.
 Assistant Professor       
 Department of Computer and Information Science       
 University of Mississippi    
