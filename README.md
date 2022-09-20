@@ -1,11 +1,11 @@
-<center>##Yili Jiang, Ph.D.</center>
-<center>Assistant Professor</center>    
-<center>Department of Computer and Information Science</center>   
-<center>University of Mississippi</center>
-<center>Email: yjiang7 at olemiss dot edu</center>   
-<center>Phone: 662-915-7002</center>    
-<center>Office: Weir Hall 214</center>
-
+<center>##Yili Jiang, Ph.D.</center>     
+<center>Assistant Professor</center>         
+<center>Department of Computer and Information Science</center>        
+<center>University of Mississippi</center>     
+<center>Email: yjiang7 at olemiss dot edu</center>        
+<center>Phone: 662-915-7002</center>         
+<center>Office: Weir Hall 214</center>      
+   
 
 ### Bio   
   
