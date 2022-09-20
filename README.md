@@ -1,4 +1,4 @@
-\!\[markdown picture](./assets/favicon.png)
+\!\[markdown picture](./YJ.jpg)
 ## Yili Jiang, Ph.D.
 Assistant Professor 
 Department of Computer and Information Science       
