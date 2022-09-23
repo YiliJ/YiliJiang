@@ -6,7 +6,7 @@
 Assistant Professor        
 Department of Computer and Information Science       
 University of Mississippi    
-Email: yjiang7 at olemiss dot edu        
+Email: [yjiang7@olemiss.edu](mailto:yjiang7@olemiss.edu)     
 Phone: 662-915-7002        
 Office: Weir Hall 214    
 
