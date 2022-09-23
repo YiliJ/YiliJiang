@@ -62,7 +62,7 @@ I am always looking for self-motivated students with strong interests in researc
   Nanjing University of Posts and Telecommunications
   
 ### Professional Activies   
-- Session Chair for the Track of Edge Computing in IEEE Wireless Communications and Networking Conference (WCNC),2022. 
+- Session Chair for the Track of Edge Computing in IEEE Wireless Communications and Networking Conference (WCNC), 2022. 
 - TPC member for IEEE/CIC International Conference on Communications in China (ICCC), 2018.
 - Student Volunteer for IEEE International Conference on Communications (ICC), 2018.
 - Reviews for Journals and Conferences (selected)      
