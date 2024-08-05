@@ -2,8 +2,8 @@
 <p align="left">
 <img src="YJ.JPG" alt="me" width="200"/>     
 </p>      
-
-
+-->
+<!--
 ## Yili Jiang, Ph.D.
 Assistant Professor        
 Department of Computer and Information Science       
