@@ -1,7 +1,7 @@
 <p align="left">
 <img src="YJ.JPG" alt="me" width="200"/>     
 </p>      
-<---!
+<!--
 ## Yili Jiang, Ph.D.
 Assistant Professor        
 Department of Computer and Information Science       
@@ -84,7 +84,7 @@ I am always looking for self-motivated students with strong interests in researc
   •	IEEE International Conference on Wireless Communications and Signal Processing (WCSP)     
   •	IEEE/ACM International Symposium on Quality of Service (IWQoS)   
   •	IEEE International Conference on Wireless and Mobile Computing, Networking And Communications
-  --->
+  -->
 
 ### Professional Membership    
 - IEEE member
