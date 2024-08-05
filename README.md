@@ -94,4 +94,4 @@ I am always looking for self-motivated students with strong interests in researc
 - ACM member
 - ACM’s Women in Computing(ACM-W)
   -->
-Thank you for visiting Dr. Yili Jiang's homepage. The website is move to [here] (https://canlabgo.github.io/YiliJIANG/).
+Thank you for visiting Dr. Yili Jiang's homepage. The website is move to [here](https://canlabgo.github.io/YiliJIANG/).
